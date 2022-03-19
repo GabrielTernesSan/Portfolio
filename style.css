@@ -52,6 +52,12 @@ body {
   border-radius: 100px;
 }
 
+.linguagens-icon{
+  height: 30px;
+  width: 30px;
+  padding: 3px;
+}
+
 .portfolio {
   margin-top: 64px;
   display: grid;
